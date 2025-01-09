@@ -1,3 +1,5 @@
+![Shiftline Banner](../Banner-Text.png)
+
 # Shiftline
 
 Welcome to Shiftline — a creative powerhouse where design meets technology to shape extraordinary digital experiences.  
